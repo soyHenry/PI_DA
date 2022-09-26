@@ -25,10 +25,10 @@ Bienvenidos al útlimo proyecto individual de la academia. En esta ocasión, deb
 * Podrán agregar cualquier dato que consideren relevante y puedan explicar en la DEMO. 
 
 #### ¿Cómo será la entrega?
-La entrega se hará a través de un form que estará disponible hasta el *JUEVES 29/09/2022 a las 13:00hs ARG*. Tendrán la posibilidad de modificar sus archivos hasta la instancia de DEMO que, en caso de haberlo hecho, deberán hacer una segunda entrega coordinada con su evaluador. 
+La entrega se hará a través de un form que estará disponible hasta el *JUEVES 29/09/2022 a las 13:00hs ARG*. Tendrán la posibilidad de modificar sus archivos hasta la instancia de presentación de la DEMO que, en caso de haberlo modificado para dicho momento, deberán hacer una segunda entrega coordinada con su evaluador. 
 
 #### Presentación.
-* La presentación se hará en meets previamente coordinados de 15 minutos. Es decir, su presentación no deberá extenderse de los 8/10 minutos respetando los horarios acordados, para poder recibir el feedback correspondiente.
+* La presentación de la DEMO se hará en meets previamente coordinados de 15 minutos. Es decir, su presentación no deberá extenderse de los 8/10 minutos respetando los horarios acordados, para poder recibir el feedback correspondiente.
 * Se podrá realizar la presentación sobre el dashboard directo en la aplicación de escritorio de PowerBI. 
 * Se prestará atención a como se presenta la temática y como introducen al oyente en la misma. El storytelling deberá estar armado para una persona que no posee conocimientos en la rama.
 * Se solicitará prolijidad en cuanto a presentación visual y auditiva. Tener en cuenta contextualización, patrón Z, gama de colores a elegir, etc.
