@@ -20,7 +20,7 @@ Bienvenidos al útlimo proyecto individual de la academia. En esta ocasión, deb
 * Calculadora. Esta misma deberá arrojar el precio a partir de la paridad, es decir, podremos pedir el valor en USD a partir de una suma de BTC o viceversa. 
 * [Media Móvil. ](https://economipedia.com/definiciones/media-movil.html)  
   
-*A su vez recuerden que ustedes definen como quieren incluir cada uno de estos aspectos: dimensiones, información interactiva, colores, etc. Ningún diseño de dashboard en principio está mal.*
+#### A su vez recuerden que ustedes definen como quieren incluir cada uno de estos aspectos: dimensiones, información interactiva, colores, etc. Ningún diseño de dashboard en principio está mal.
 
 #### Plus de entrega:
 * Calculadora entre criptomonedas. A diferencia de la anterior, ésta deberá responder a cuantos ETH corresponden una cantidad determinada de BTC y viceversa.
