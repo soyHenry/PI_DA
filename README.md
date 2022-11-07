@@ -1,49 +1,55 @@
-# PI03 - Analytics
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-![image](https://help.ftx.com/hc/article_attachments/4409994973844/mceclip0.png)
+# **PROYECTO INDIVIDUAL Nº3**
 
-## Introducción
-Bienvenidos al útlimo proyecto individual de la academia. En esta ocasión, deberán aprender o repasar los conocimientos básicos del ecosistema de criptomonedas para luego realizar una DEMO en vivo del dashboard como entregable.
+# <h1 align="center">**`Accidentes aéreos`**</h1>
 
-# Consigna
+<p align="center">
+<img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F09%2F15%2F16%2F13%2Fairplane-1671967_1280.jpg"  height=300>
+</p>
 
-#### Deberán conectar la API de FTX a un dashboard y cumplir con los siguientes requisitos:
-* Reporte de calidad y detalle de los datos: Esto quiere decir que deberán crear una documentación en la cuál expliquen qué es cada dato con el cuál decidieron trabajar y, además, su calidad. Puede hacerse en un Markdown.
-* Se debe trabajar directamente con conexión a la API. Es decir que su trabajo no puede estar montado a partir de archivos csv o de entorno local. 
-* Pueden hacer una investigación en Jupyter (u otro ambiente) para análizar todo lo que consideren necesario. La entrega es opcional.
-* Deberán elegir 10 criptomonedas para el reporte. Se recomienda utilizar [coinmarketcap.com ](https://coinmarketcap.com/es/) para su elección. Si quieren incluir más, depende del alumno.
+¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 
-#### El Dashboard puede armarse en PowerBI o Streamlit. Tener en cuenta la rama a la que apuntan en su carrera para poder elegir una herramienta que genere valor agregado a sus proyectos y experiencia a futuro. Este mismo deberá contar con:
-* Interacción para la búsqueda de datos históricos de precio de diferentes monedas.
-* Volumen de transacción.
-* [Varianza.](https://economipedia.com/definiciones/varianza.html#:~:text=La%20varianza%20es%20una%20medida,la%20desviaci%C3%B3n%20t%C3%ADpica%20al%20cuadrado) 
-* Calculadora. Esta misma deberá arrojar el precio a partir de la paridad, es decir, podremos pedir el valor en USD a partir de una suma de BTC o viceversa. 
-* [Media Móvil. ](https://economipedia.com/definiciones/media-movil.html)  
-  
-#### A su vez recuerden que ustedes definen como quieren incluir cada uno de estos aspectos: dimensiones, información interactiva, colores, etc. Ningún diseño de dashboard en principio está mal.
+<img src = 'https://i.pinimg.com/originals/06/01/4c/06014cb5dbc08b16d3f105d97bc5c85e.png' height = 200>
 
-#### Plus de entrega:
-* Calculadora entre criptomonedas. A diferencia de la anterior, ésta deberá responder a cuantos ETH corresponden una cantidad determinada de BTC y viceversa.
-* Tasa implícita de futuros. 
-* Podrán agregar cualquier dato que consideren relevante y puedan explicar en la DEMO. 
+## **Contexto**
+La **Organización de Aviación Civil Internacional (OACI)**, organismo de la Organización de las Naciones Unidas, quiere investigar en profundidad los accidentes producidos desde inicios del siglo XX. Para ello, les solicita la elaboración de un informe y un dashboard interactivo que recopile tal información. 
 
-#### ¿Cómo será la entrega?
-La entrega se hará a través de un form que estará disponible hasta el *JUEVES 29/09/2022 a las 13:00hs ARG*. Tendrán la posibilidad de modificar sus archivos hasta la instancia de DEMO, pero solo se va a tomar en cuenta la presentación y el envío que realicen.
+La OACI únicamente cuenta con un dataset sobre datos de accidentes de aviones, pero insta a la consultora de datos -de la que forman parte- que intente cruzar esta información con otras fuentes de su interés. Esto con el objetivo de obtener mayor claridad y consistencia en los fundamentos del estudio.
 
-#### Presentación.
-* La presentación se hará en meets previamente coordinados de 15 minutos. El Mentor es el encargado de decidir los horarios. ¡Estén atentos a su Slack!
-* Su presentación no deberá extenderse de los 8/10 minutos respetando los horarios acordados, para poder recibir el feedback correspondiente.
-* Se podrá realizar la presentación sobre el dashboard directo en la aplicación de escritorio de PowerBI. 
-* Se prestará atención a como se presenta la temática y como introducen al oyente en la misma. El storytelling deberá estar armado para una persona que no posee conocimientos en la rama.
-* Se solicitará prolijidad en cuanto a presentación visual y auditiva. Tener en cuenta contextualización, patrón Z, gama de colores a elegir, etc.
-* Se permite utilizar como modelo el Dashboard de FTX o cualquier otro exchange. 
+## **Propuesta de trabajo**
+A raíz de esta solicitud, nuestro Project Manager nos encarga una serie de tareas a cumplir: 
 
-### RECURSOS
-* Documentación API FTX: https://docs.ftx.com/#overview
-* Repositorio oficial: https://github.com/ccxt/ccxt
-* Ejemplo de dashboard FTX: https://ftx.com/trade/DASH-PERP
++ Realizar un EDA con el dataset provisto, junto con un reporte de calidad y diccionario de datos
++ Buscar y relacionar información relevante con los eventos
++ Crear una base de datos en un motor SQL e ingestar el csv procesado
++ Elaborar un dashboard e idear un storytelling con el objetivo de presentarlo ante la OACI
++ Adjuntar todo el trabajo en un repositorio de GitHub
 
 
-### ¡Mucha Suerte!  
+Stack tecnológico:
 
-<img src = "https://user-images.githubusercontent.com/96025598/188937586-28575753-fbd6-42de-beca-81ae35b659e0.gif" height = 300>
++ `Python`: EDA + transformaciones 
++ `SQL`: base de datos
++ `Power BI` -preferentemente- o `Streamlit`: dashboard
++ `GitHub`: con un README.md donde se elabore el informe
+
+A modo de resumen, se espera que puedan realizar un primer acercamiento al dataset con Python. Allí, crearán un notebook que contendrá un análisis exploratorio y realizarán las transformaciones y el preprocesamiento que consideren pertinentes. Esta etapa debe estar oportunamente documentada y con los comentarios necesarios. Recuerden que Python brinda un recurso muy valioso para este fin -celdas markdown-.
+
+En una instancia posterior, tendrán que ingestar el dataset en un motor SQL de su preferencia. Finalmente, la herramienta de visualización empleada debe conectarse y tomar los datos desde ese motor.
+- - -
+
+## ***Recomendaciones finales***
+
+Se hará hincapié en la presentación, comunicación, capacidad analítica y forma de contar una historia con los datos. Para ello, pueden hacer foco en el Workshop `From Data to Viz & Storytelling`.
+
+¡No deben mostrar nada de código en la exposición!
+
+Recordamos que sean puntuales y prueben el correcto funcionamiento de las herramientas empleadas **antes** de ingresar a la meet.
+
+La **DEMO**, donde defenderán el proyecto, se realizará el día jueves o viernes. Estar atentos a su *calendar* para ver qué día y horario les corresponde. Tendrá una duración máxima de 15 minutos -entre puesta en escena y devolución del corrector asignado-. Así que es importante que sepan gestionar bien su tiempo y tengan un speech ya preparado de, aproximadamente, unos 9/11 minutos de duración.
+
+
+
+
+
