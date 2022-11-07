@@ -47,7 +47,7 @@ Se hará hincapié en la presentación, comunicación, capacidad analítica y fo
 
 Recordamos que sean puntuales y prueben el correcto funcionamiento de las herramientas empleadas **antes** de ingresar a la meet.
 
-La **DEMO**, donde defenderán el proyecto, se realizará el día jueves o viernes. Estar atentos a su *calendar* para ver qué día y horario les corresponde. Tendrá una duración máxima de 15 minutos -entre puesta en escena y devolución del corrector asignado-. Así que es importante que sepan gestionar bien su tiempo y tengan un speech ya preparado de, aproximadamente, unos 9/11 minutos de duración
+La **DEMO**, donde defenderán el proyecto, se realizará el día jueves o viernes. Estar atentos a su *calendar* para ver qué día y horario les corresponde. Tendrá una duración máxima de 15 minutos -entre puesta en escena y devolución del corrector asignado-. Así que es importante que sepan gestionar bien su tiempo y tengan un speech ya preparado de, aproximadamente, unos 9/11 minutos de duración.
 
 
 
