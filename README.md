@@ -1,7 +1,7 @@
 Readme PI
-
+<p align='center'>
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
+<p>
 # **PROYECTO INDIVIDUAL Nº3**
 
 # <h1 align="center">**`MOOCs`**</h1>
