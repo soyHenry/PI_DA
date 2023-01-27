@@ -2,8 +2,10 @@
 <img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 <p>
 
-# **PROYECTO INDIVIDUAL Nº3**
-
+<h1 align='center'>
+ <b>PROYECTO INDIVIDUAL Nº3</b>
+</h1>
+ 
 # <h1 align="center">**`MOOCs`**</h1>
 
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
