@@ -37,7 +37,7 @@ Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide 
 ## **Propuesta de trabajo (indicaciones)**
 
 `Análisis Exploratorio de los datos`(_Exploratory Data Analysis = EDA_):
-Debe incluir un informe en el que explique y justifique el análisis expuesto y los datos utilizados, complementando con las salidas visuales incorporadas en el EDA. La elección de la forma de presentación del reporte es libre.
+Debe incluir un informe en el que explique y justifique el análisis expuesto y los datos utilizados, complementando con las salidas visuales incorporadas en el EDA. El reporte debe presentrase en un notebook (.ipynb) adecuadamente comentado.
 
 `Dashboard`:
 Debe ser funcional y coherente con el análisis y la historia que vayan a relatar.
