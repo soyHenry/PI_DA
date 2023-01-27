@@ -44,7 +44,8 @@ Debe ser funcional y coherente con el análisis y la historia que vayan a relata
 No se calificará solamente la producción de gráficos con datos (dashboard), sino también los análisis y conclusiones que encuentren de estos.
 
 `KPIs`:
-Se debe sugerir _al menos_ 1 KPI **bien formulado** y debe aparecer en el dashboard. Tenga en cuenta que debe tener relación con el dataset y la historia que está contando, y debe explicar en la presentación el análisis y la funcionalidad de los KPIs sugeridos. **MUY IMPORTANTE**: repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.
+Se debe sugerir _al menos_ 1 KPI **bien formulado** y debe aparecer en el dashboard. Tenga en cuenta que debe tener relación con el dataset y la historia que está contando, y debe explicar en la presentación el análisis y la funcionalidad de los KPIs sugeridos.  
+`MUY IMPORTANTE`: repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
 
 `Repositorio de GitHub`:
 El repositorio debe contener un Readme principal donde se presente de forma general **su proyecto**.
