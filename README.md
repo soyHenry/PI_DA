@@ -99,7 +99,7 @@ Serás evaluado en dos grandes áreas, ambas con igual peso entre si: `Tech` y `
 
 
 ## Material de apoyo
-- [Workshop `From Data to Viz & Storytelling`](https://www.students.soyhenry.com/classes/121?cohortId=58&videoOrdinal=1)
+- Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
 - [Como hacer un EDA](https://medium.com/nerd-for-tech/how-to-do-some-basic-eda-a-guide-for-dummies-d76d9a82242c)
 - [Define your KPIs](https://medium.com/swlh/define-your-kpis-1a2072f1435)
 - [Web Scrapping](https://www.softwaretestingmaterial.com/why-we-need-web-scraping/)
@@ -119,7 +119,7 @@ Recordamos que sean puntuales y prueben el correcto funcionamiento de las herram
 
 La **DEMO**, donde defenderán el proyecto, se realizará el día jueves o viernes. Deben estar atentos a su *calendar* para ver qué día y horario les corresponde. 
 
-Tendrá una duración total máxima de 30 minutos, de los cuales sólo 10 minutos serán para su presentación.  Es importante que sepan **gestionar bien su tiempo** y tengan un speech ya preparado de 10 minutos.
+Tendrá una duración total máxima de 30 minutos, de los cuales sólo 10 minutos serán para su presentación.  Es importante que sepan **gestionar bien su tiempo** y tengan un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección y feedback por parte del Henry Mentor.
 
 
 ## Disclaimer
