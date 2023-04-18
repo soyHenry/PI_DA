@@ -70,14 +70,14 @@ El repositorio debe contener un README principal donde se presente de forma gene
 - Cruce de datos con datasets complementarios.
 
 ## Fuente de datos:
-**Obligatorios:**
+**Obligatorio:**
 
 - [Dataset principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API-
-- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
 
-
-**Complementarios:**
+**Complementario:**
 - Cualquier dataset de búsqueda propia que complemente y mejore el análisis.
+ - [Datasets](https://datosabiertos.enacom.gob.ar/home)
+
 
 
 <h1>Lo que tendremos en cuenta a la hora de evaluar:</h1>
