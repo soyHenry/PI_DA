@@ -72,7 +72,7 @@ El repositorio debe contener un README principal donde se presente de forma gene
 ## Fuente de datos:
 **Obligatorios:**
 
-- [Dataset principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) Se sugiere el uso de la API
+- [Dataset principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API-
 - [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
 
 
