@@ -14,7 +14,7 @@
 <p>
 
 
-## **Descripción del problema (Contexto y rol a desarrollar)**
+## **Descripción del problema -contexto y rol a desarrollar-**
 
 
 ### **Contexto**
@@ -38,27 +38,27 @@ Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide 
 
 *Nota: En la sección de material de apoyo se puede encontrar más información sobre los KPIs.*
 
-## **Propuesta de trabajo (requerimientos de aprobación)**
+## **Propuesta de trabajo -requerimientos de aprobación-**
 
-`Análisis Exploratorio de los datos`(_Exploratory Data Analysis = EDA_):
+`Análisis Exploratorio de los datos` (_Exploratory Data Analysis = EDA_)
 
 El reporte debe incluir un resumen de estadísticas descriptivas de los datasets, análisis univariados (por ejemplo, distribución de variables numéricas), análisis bivariados (correlación entre variables numéricas y/o categóricas); y **cualquier análisis que le ayude al mejor entendimiento de los datos** (encontrar patrones, outliers y/o anomalías, entre otros). El reporte debe presentarse en un notebook (_.ipynb_) con adecuado uso de markdowns y comentarios.
   
-`Dashboard`:
+`Dashboard`
 
 Debe ser funcional y coherente con el análisis y la historia que vayan a relatar. **El archivo debe estar en su repositorio** (.pbix, .py o el que aplique).
 
-`KPIs`:
+`KPIs`
 
 Se deben sugerir 3 KPIs y deben aparecer en el dashboard. Tenga en cuenta que deben tener relación con la historia que está contando, y debe explicar en la presentación el análisis y la funcionalidad de los KPIs sugeridos.
 
-:warning: `Análisis`: :warning:
+:warning: `Análisis` :warning:
 
 No se calificará solamente la producción de gráficos con datos (dashboard), sino también los **análisis y conclusiones** que encuentren de éstos.
   
-`Repositorio de GitHub`:
+`Repositorio de GitHub`
 
-El repositorio debe contener un Readme principal donde se presente de forma general **su proyecto**. Presentar como propio el Readme proporcionado por Henry será considerado como **insuficiente** para cumplir con este requerimiento.
+El repositorio debe contener un README principal donde se presente de forma general **su proyecto**. Presentar como propio el readme proporcionado por Henry será considerado como **insuficiente** para cumplir con este requerimiento.
   
 **PLUS**
 <br>
