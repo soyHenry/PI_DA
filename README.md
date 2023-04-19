@@ -34,7 +34,7 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones le e
 
 Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide **visualizar** en un dashboard el siguiente KPI y **establecer 3 KPIs adicionales** producto de su análisis:
 
-+ Evolución de la variación porcentual **trimestral** del acceso al servicio de internet, cada 100 hogares, por provincia. [(Datos)](https://www.google.com/url?q=https://datosabiertos.enacom.gob.ar/visualizations/32226/penetracion-de-internet-fijo-accesos-por-cada-100-hogares/&sa=D&source=docs&ust=1671204570423891&usg=AOvVaw0YwFIM-MNjsy094L_FOFM3)
++ Aumentar el acceso al servicio de internet en un 30% para el próximo trimestre, cada 100 hogares, por provincia. [(Datos)](https://www.google.com/url?q=https://datosabiertos.enacom.gob.ar/visualizations/32226/penetracion-de-internet-fijo-accesos-por-cada-100-hogares/&sa=D&source=docs&ust=1671204570423891&usg=AOvVaw0YwFIM-MNjsy094L_FOFM3)
 
 *Nota: En la sección de material de apoyo se puede encontrar más información sobre los KPIs.*
 
