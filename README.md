@@ -25,7 +25,7 @@ El internet, por su parte, es una red global de computadoras interconectadas que
 
 La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza, en su mayoría, a través de internet, líneas telefónicas fijas, telefonía móvil y en casi cualquier lugar del mundo. 
 
-En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php). 
+En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones de conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php). 
 
  
 ### **Rol a desarrollar**
