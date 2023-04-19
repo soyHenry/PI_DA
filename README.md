@@ -50,7 +50,7 @@ Debe ser funcional y coherente con el análisis y la historia que vayan a relata
 
 `KPIs`
 
-Se deben sugerir 3 KPIs y deben aparecer en el dashboard. Tenga en cuenta que deben tener relación con la historia que está contando, y debe explicar en la presentación el análisis y la funcionalidad de los KPIs sugeridos.
+Se deben sugerir 3 KPIs y deben aparecer en el dashboard. Tenga en cuenta que deben tener relación con la historia que está contando. Asimismo, se espera que en la presentación explique el análisis y la funcionalidad de los KPIs sugeridos.
 
 :warning: `Análisis` :warning:
 
