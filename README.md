@@ -30,7 +30,7 @@ Ellos solicitan segmentar el nivel de ventas según precio, idioma, nivel y rati
 Por otra parte, se nos solicita un Word Cloud de las palabras clave que más se repiten dentro del título -se pueden añadir otras variables de nuestro interés-. 
  
 Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar el siguiente KPI y **establecer otros tres KPIs** producto de su análisis y que se puedan **visualizar** en el dashboard. 
-+ Tasa de conversión de inscriptos gratuitos a inscriptos pagados -calculado como el número de inscriptos en cursos pagados / número de inscriptos en cursos gratuitos * 100-. El objetivo a futuro propuesto por la empresa es evaluar si en la tendencia se logra incrementar esta tasa en un 15% en comparación con el año anterior. Actualmente, para este cálculo, usted posee la información de Udemy, pero como desafío extra, se le pide buscar datasets complementarios y permitan comparar evaluar este KPI en las distintas plataformas. 
++ Tasa de conversión de inscriptos gratuitos a inscriptos pagados -calculado como el número de inscriptos en cursos pagados / número de inscriptos en cursos gratuitos * 100-. El objetivo a futuro propuesto por la empresa es evaluar si en la tendencia se logra incrementar esta tasa en un 15% en comparación con el año anterior. Actualmente, para este cálculo, usted posee la información de Udemy, pero como desafío extra, se le pide buscar datasets complementarios y evaluar este KPI en las distintas plataformas. 
 
 Por último, se nos pide una demo en un rango de tiempo de no más de 10 min donde presentemos nuestro dashboard junto con los análisis y conclusiones pertinentes.
 
