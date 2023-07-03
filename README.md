@@ -6,35 +6,33 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`MOOCs`**</h1>
+# <h1 align="center">**`Telecomunicaciones`**</h1>
 
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 <p align='center'>
-<img src = 'https://thumbs.dreamstime.com/b/mooc-massive-open-online-course-learning-vector-219370657.jpg' height = 200>
+<img src = 'https://newses.cgtn.com/n/BfJIA-CAA-HAA/BceGDAA.jpg' height = 200>
 <p>
 
 
-## **Descripción del problema (Contexto y rol a desarrollar)**
+## **Descripción del problema -contexto y rol a desarrollar-**
+
 
 ### **Contexto**
 
-Los MOOCs (cursos masivos abiertos y online, por sus siglas en inglés) han revolucionado el mundo de la educación desde principios de la década pasada, cuando el profesor Sebastian Thrun comenzó con la transmisión online de su curso introductorio a la Inteligencia Artificial. Poco tiempo después, Thrun fundó Udacity y con el pasar de los años se han ido sumando otras plataformas como edX y Coursera, brindando servicios similares: acceso a contenido específico, de calidad y de manera práctica, desde la comodidad del hogar. Muchas de estas plataformas tienen contenido gratuito, mientras que el modelo de negocio en general se basa en el pago de suscripciones recurrentes para acceso general o únicas, para acceder a certificaciones o a cursos premium.
-Con el aumento de la popularidad de los MOOCs, no solo han aparecido nuevas plataformas privadas como las mencionadas anteriormente, sino que también muchas universidades y organizaciones sin fines de lucro han sumado a la oferta haciendo el mercado mucho más competitivo. En este contexto, resulta imperante para cada plataforma ajustar sus modelos de negocio, los cursos y el contenido que se ofrece en ellos para lograr captar y retener a la mayor cantidad de clientes.
+Las telecomunicaciones se refieren a la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios de comunicación permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias.
 
-### Rol a desarrollar
+El internet, por su parte, es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real. Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
 
-Nuestra PM se dirigió a nosotros con un nuevo ticket de trabajo. Una startup de tecnología está interesada en sumarse al mercado de cursos online, pero de una manera eficiente, por lo que compró datasets de posibles competidores para analizar y sacar conclusiones de los datos recolectados.
+La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, y en casi cualquier lugar del mundo. 
 
-Ellos solicitan segmentar el nivel de ventas según precio, idioma, nivel y rating de cada curso, con el objetivo analizar qué tanto influyen dichas variables en la demanda del producto vendido.
+En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones de conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php). 
 
-Por otra parte, se nos solicita un Word Cloud de las palabras clave que más se repiten dentro del título -se pueden añadir otras variables de nuestro interés-. 
  
-Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar el siguiente KPI y **establecer otros tres KPIs** producto de su análisis y que se puedan **visualizar** en el dashboard. 
-+ Tasa de conversión de inscriptos gratuitos a inscriptos pagados -calculado como el número de inscriptos en cursos pagados / número de inscriptos en cursos gratuitos * 100-. El objetivo a futuro propuesto por la empresa es evaluar si en la tendencia se logra incrementar esta tasa en un 15% en comparación con el año anterior. Actualmente, para este cálculo, usted posee la información de Udemy, pero como desafío extra, se le pide buscar datasets complementarios y evaluar este KPI en las distintas plataformas. 
+### **Rol a desarrollar**
 
-Por último, se nos pide una demo en un rango de tiempo de no más de 10 min donde presentemos nuestro dashboard junto con los análisis y conclusiones pertinentes.
+En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
-## **Propuesta de trabajo (indicaciones)**
+## **Propuesta de trabajo -requerimientos de aprobación-**
 
 `EDA` (Exploratory Data Analysis)
 
@@ -71,13 +69,17 @@ Pensando en alcanzar tu Boom, te recomendamos incorporar los siguientes desafío
 
 <sub> Nota: la realización de uno o más de estos ítems no es intercambiable con los requerimientos mínimos establecidos en la sección anterior "Propuesta de trabajo". Empiece con esta sección una vez haya cumplido con los requerimientos mínimos, a modo de desafiarse a usted mismo y destacar frente al resto.</sub>
 
-## Fuente de datos:
-- [Datasets proporcionados ](https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H?usp=sharing)
-- Otros datasets de búsqueda propia.
+## Fuente de datos
+**Obligatorio:**
 
-<br>
+- [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API para traerse los datos-
 
-<h1>Lo que tendremos en cuenta a la hora de evaluar:</h1>
+**Complementarios:**
+- Cualquier dataset de búsqueda propia que complemente y mejore el análisis
+- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
+
+
+<h1>Lo que tendremos en cuenta a la hora de evaluar</h1>
 
 Serás evaluado en dos grandes áreas, ambas con igual peso entre si: `Tech` y `Soft`!
 
@@ -92,7 +94,6 @@ Serás evaluado en dos grandes áreas, ambas con igual peso entre si: `Tech` y `
 - ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
 - [Como hacer un EDA](https://medium.com/nerd-for-tech/how-to-do-some-basic-eda-a-guide-for-dummies-d76d9a82242c)
 - [Como ejecutar scripts en power BI](https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts)
-- [Pypy: WordCloud](https://pypi.org/project/wordcloud/)
 - [KPI's 4 students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit) y [Define your KPIs](https://medium.com/swlh/define-your-kpis-1a2072f1435)
 - [Repaso de clase sobre EDA](https://www.students.soyhenry.com/classes/100?cohortId=106&videoOrdinal=1)
 
@@ -116,4 +117,7 @@ De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los p
 <p align='center'>
 <img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
 <p>
+
+
+
 
