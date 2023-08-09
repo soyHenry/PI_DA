@@ -6,43 +6,48 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`Telecomunicaciones`**</h1>
+# <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
 
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 <p align='center'>
-<img src = 'https://newses.cgtn.com/n/BfJIA-CAA-HAA/BceGDAA.jpg' height = 200>
+<img src = 'https://www.clarin.com/img/2023/06/14/WJlAYJhAg_360x240__1.jpg' height = 200>
 <p>
-
 
 ## **Descripción del problema -contexto y rol a desarrollar-**
 
-
 ### **Contexto**
 
-Las telecomunicaciones se refieren a la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios de comunicación permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias.
+En los últimos años, el mercado de las criptomonedas ha experimentado un crecimiento exponencial y una creciente adopción a nivel mundial. La aparición del Bitcoin en 2009 marcó el inicio de una revolución financiera que ha llevado a la creación de miles de criptomonedas diferentes con diversas funcionalidades y tecnologías subyacentes.
 
-El internet, por su parte, es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real. Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
+Con el aumento del interés en el mercado de criptomonedas, cada vez más inversores, empresas y entusiastas buscan comprender mejor el comportamiento y la evolución de estos activos digitales. Sin embargo, la naturaleza altamente volátil y compleja de las criptomonedas presenta desafíos significativos para aquellos que desean tomar decisiones informadas sobre inversiones o simplemente para comprender mejor cómo funcionan estos mercados emergentes.
 
-La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, y en casi cualquier lugar del mundo. 
+El análisis y la exploración de datos desempeñan un papel crucial en la obtención de información valiosa dentro del vasto conjunto de datos disponibles sobre criptomonedas. En este contexto, es clave el uso de una valiosa fuente de datos actualizados que proporcionen información sobre una amplia variedad de criptomonedas, incluidos precios, volúmenes de negociación, capitalización de mercado, información histórica y más.
 
-En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones de conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php). 
 
- 
 ### **Rol a desarrollar**
 
-En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+Te sitúas en el puesto de Analista de Datos en una empresa de servicios financieros que se ha interesado en el mercado de criptomonedas debido a su crecimiento exponencial y el potencial de oportunidades de inversión para los clientes. La empresa te ha asignado la tarea de realizar un análisis exhaustivo utilizando datos de la API CoinGecko para entender mejor el mercado de criptomonedas y presentar tus hallazgos y recomendaciones en un informe detallado.
 
-## **Propuesta de trabajo -requerimientos de aprobación-**
+La fuente de información entregada por la empresa posee un conjunto de aproximadamente 4000 monedas y el tiempo estipulado para obtener tus análisis es corto, por lo que se te ha solicitado que acotes tu trabajo en al menos 10 criptomonedas, y en base a estas presentes tus análisis y recomendaciones.
+
+Considera además que la elección de estas monedas queda a tu criterio, pero debes dejar claro el porqué de tu elección y el sustento de ésta. Por ejemplo, podrías seleccionar las criptomonedas con mayor capitalización de mercado, aquellas que han experimentado un mayor crecimiento reciente, o incluso algunas que son innovadoras en términos de tecnología o caso de uso.
+
+Por último, asegúrate de destacar el impacto y las recomendaciones basadas en los resultados del análisis. Estos podrían incluir posibles estrategias u oportunidades de inversión, la gestión del riesgo, optimización de la cartera, sugerencias sobre cómo seguir monitoreando el mercado de criptomonedas, entre otros.
+
+
+## **Propuesta de trabajo -mínimos entregables-**
 
 `EDA` (Exploratory Data Analysis)
 
-Deben realizar un análisis exploratorio de los datos en un notebook. Tienen que estar sus pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo que van observando, utilizando celdas Markdown para tal fin. La prolijidad del notebook será un aspecto a evaluar. Es importante que tengan en cuenta que, en muchas oportunidades y trabajos, un EDA constituye un entregable en sí mismo.
+Debes realizar un análisis exploratorio de los datos en un notebook. Tienen que estar tus pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo que vas observando, utilizando celdas Markdown para tal fin. La prolijidad del notebook será un aspecto a evaluar. Es importante que tengas en cuenta que, en muchas oportunidades y trabajos, un EDA constituye un entregable en sí mismo.
+
+En esta línea, hay varios aspectos indispensables que **deben** ser abordados en cualquier Análisis Exploratorio de Datos y tomaremos como punto de partida para evaluar tu performance en este apartado. Entre estos aspectos destacados se encuentran: *búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados*. Asimismo, la utilización de gráficos coherentes según la tipología de variable que corresponda resulta esencial.
 
 ***En caso de hacer uso de librerías como pandas_profiling, es indispensable acompañar los gráficos con análisis propios.***
 
 `Dashboard`
 
-Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir filtros, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea interactivo. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems. 
+Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir **filtros**, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea **interactivo**. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems. 
 
 `Análisis` :warning:
 
@@ -50,14 +55,14 @@ No se considerará solamente la producción de gráficos con datos -dashboard-, 
 
 `KPIs`
 
-Se deben sugerir 3 KPIs y mostrarse en el dashboard. Téngase presente que deben tener relación con la historia que usted está contando. Asimismo, se espera que en la presentación explique el análisis y la funcionalidad de los KPIs sugeridos.
+Debes sugerir 3 KPIs y deben estar adecuadamente representados de forma visual en el dashboard. Tén presente que deben tener relación con la historia que estás contando. Asimismo, se espera que en la presentación se explique el análisis y la funcionalidad de los KPIs sugeridos.
 
 `MUY IMPORTANTE` repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
 
 `Repositorio de GitHub`
 
 El repositorio debe contener un **Readme** principal donde presenten, en una primera instancia, de forma general **su proyecto** y detallen qué hay en cada archivo/carpeta del propio repositorio. Este Readme no puede ser el mismo de la consigna que nosotros les entregamos.
-A su vez, el Readme debe incluir un reporte de análisis con base en sus dashboards, así como el análisis y la funcionalidad de los KPIs sugeridos.
+A su vez, el Readme debe incluir un **reporte de análisis con base en sus dashboards**, así como el análisis y la funcionalidad de los KPIs sugeridos.
 
 ### _**Desafíate y no te quedes siendo Junior, sé Junior Advanced**_
 
@@ -72,22 +77,21 @@ Pensando en alcanzar tu Boom, te recomendamos incorporar los siguientes desafío
 ## Fuente de datos
 **Obligatorio:**
 
-- [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API para traerse los datos-
+- [API CoinGecko](https://www.coingecko.com/es/api/documentation): Ten en cuenta que se verificará que los datos sean traidos desde la API
 
 **Complementarios:**
-- Cualquier dataset de búsqueda propia que complemente y mejore el análisis
-- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
+- Cualquier dataset de búsqueda propia que complemente y mejore el análisis. 
+- [API Binance](https://binance-docs.github.io/apidocs/spot/en/#general-api-information)
 
 
 <h1>Lo que tendremos en cuenta a la hora de evaluar</h1>
 
-Serás evaluado en dos grandes áreas, ambas con igual peso entre si: `Tech` y `Soft`!
+Serás evaluado en dos grandes áreas  `Tech` y `Soft`!
 
-**Las habilidades técnicas -Tech-** para este proyecto de analytics incluyen el tipo de herramientas utilizadas para la realización del dashboard (herramientas de **Business Intelligence** y/o DataViz), elección de **gráficas pertinentes** para la representación del dato y un dashboard **efectivo** (organización, uso de filtros y criterios estéticos y de diagramación -dónde se ubican los filtros y visualizaciones, etc- :nail_care:)
+Ambas con igual peso entre si y ambas deben ser aprobatorias para tener la calidad de aprobado en este PIDA.
+A continuacion te facilitamos la [rubrica de evaluacion](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml) con la que seras evaluado por tu corrector@.
 
-**Las habilidades blandas -Soft-** para este proyecto tendrán en cuenta la **puntualidad y preparacion para la demo**, su **comunicación oral y storytelling**, la forma en que cuentas tu historia (¿los datos duros que presentas son **útiles** para tu audiencia?) y, finalmente -esto es MUY importante-, :warning:**EL ANÁLISIS**:warning: (¿brindas un contexto?, ¿haces comparaciones con otros datos?, ¿tienes conclusiones interesantes y realizas análisis no triviales?).
-
-<sub>**Spoiler**: te vamos a dar feedback y también vamos a evaluar tu capacidad de recepción :stuck_out_tongue: </sub>
+Esperamos que te sirva de guia de aprendizaje, y recuerda que no se trata solo de cumplir requisitos, sino de destacar en cada nivel 🚀 💛
 
 
 ## Material de apoyo
@@ -117,7 +121,3 @@ De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los p
 <p align='center'>
 <img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
 <p>
-
-
-
-
