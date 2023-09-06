@@ -40,7 +40,7 @@ Por su parte, en la sección **Material de apoyo** podrán encontrar más inform
 
 
 ## **Propuesta de trabajo -mínimos entregables tech-**
-*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Individuales/PI03/Data14_Homicidios#lo-que-tendremos-en-cuenta-a-la-hora-de-evaluar).* 😄
+*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://github.com/soyHenry/PI_DA/blob/main/README.md#lo-que-tendremos-en-cuenta-a-la-hora-de-evaluar).* 😄
 
 - `EDA` (Exploratory Data Analysis)
 
