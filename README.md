@@ -40,7 +40,7 @@ Por su parte, en la sección **Material de apoyo** podrán encontrar más inform
 
 
 ## **Propuesta de trabajo -mínimos entregables tech-**
-*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://github.com/soyHenry/PI_DA/blob/main/README.md#lo-que-tendremos-en-cuenta-a-la-hora-de-evaluar).* 😄
+*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml).* 😄
 
 - `EDA` (Exploratory Data Analysis)
 
