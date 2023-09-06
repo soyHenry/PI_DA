@@ -6,38 +6,43 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
+# <h1 align="center">**`Siniestros viales`**</h1>
 
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 <p align='center'>
-<img src = 'https://www.clarin.com/img/2023/06/14/WJlAYJhAg_360x240__1.jpg' height = 200>
+<img src = 'https://static.lajornadaestadodemexico.com/wp-content/uploads/2022/08/Siniestros-viales.jpg' height = 500>
 <p>
 
 ## **Descripción del problema -contexto y rol a desarrollar-**
 
+Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.
+
+En el contexto de una ciudad como Buenos Aires, los siniestros viales pueden ser una preocupación importante debido al alto volumen de tráfico y la densidad poblacional. Estos incidentes pueden tener un impacto significativo en la seguridad de los residentes y visitantes de la ciudad, así como en la infraestructura vial y los servicios de emergencia.
+
+Las tasas de mortalidad relacionadas con siniestros viales suelen ser un indicador crítico de la seguridad vial en una región. Estas tasas se calculan, generalmente, como el número de muertes por cada cierto número de habitantes o por cada cierta cantidad de vehículos registrados. Reducir estas tasas es un objetivo clave para mejorar la seguridad vial y proteger la vida de las personas en la ciudad.
+
+Es importante destacar que la prevención de siniestros viales involucra medidas como la educación vial, el cumplimiento de las normas de tráfico, la infraestructura segura de carreteras y calles, así como la promoción de vehículos más seguros. El seguimiento de las estadísticas y la implementación de políticas efectivas son esenciales para abordar este problema de manera adecuada.
+
+
 ### **Contexto**
 
-En los últimos años, el mercado de las criptomonedas ha experimentado un crecimiento exponencial y una creciente adopción a nivel mundial. La aparición del Bitcoin en 2009 marcó el inicio de una revolución financiera que ha llevado a la creación de miles de criptomonedas diferentes con diversas funcionalidades y tecnologías subyacentes.
+En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales. Aunque muchas jurisdicciones han logrado disminuir la cantidad de accidentes de tránsito, esta sigue siendo la principal causa de muertes violentas en el país.
+Los informes del Sistema Nacional de Información Criminal (SNIC), del Ministerio de Seguridad de la Nación, revelan que entre 2018 y 2022 se registraron 19.630 muertes en siniestros viales en todo el país. Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.
 
-Con el aumento del interés en el mercado de criptomonedas, cada vez más inversores, empresas y entusiastas buscan comprender mejor el comportamiento y la evolución de estos activos digitales. Sin embargo, la naturaleza altamente volátil y compleja de las criptomonedas presenta desafíos significativos para aquellos que desean tomar decisiones informadas sobre inversiones o simplemente para comprender mejor cómo funcionan estos mercados emergentes.
-
-El análisis y la exploración de datos desempeñan un papel crucial en la obtención de información valiosa dentro del vasto conjunto de datos disponibles sobre criptomonedas. En este contexto, es clave el uso de una valiosa fuente de datos actualizados que proporcionen información sobre una amplia variedad de criptomonedas, incluidos precios, volúmenes de negociación, capitalización de mercado, información histórica y más.
-
+Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Los expertos en la materia indican que en Argentina es dos o tres veces más alta la probabilidad de que una persona muera en un siniestro vial que en un hecho de inseguridad delictiva.
 
 ### **Rol a desarrollar**
 
-Te sitúas en el puesto de Analista de Datos en una empresa de servicios financieros que se ha interesado en el mercado de criptomonedas debido a su crecimiento exponencial y el potencial de oportunidades de inversión para los clientes. La empresa te ha asignado la tarea de realizar un análisis exhaustivo utilizando datos de la API CoinGecko para entender mejor el mercado de criptomonedas y presentar tus hallazgos y recomendaciones en un informe detallado.
+El `Observatorio de Movilidad y Seguridad Vial` (OMSV), centro de estudios que se encuentra bajo la órbita de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
+Para ello, nos disponibilizan un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Este dataset se encuentra en formato *xlsx* y contiene dos hojas llamadas: **hechos** y **víctimas**. Asimismo, observarán que incluye otras dos hojas adicionales de diccionarios de datos, que les podrá servir de guía para un mayor entendimiento de la data compartida.
 
-La fuente de información entregada por la empresa posee un conjunto de aproximadamente 4000 monedas y el tiempo estipulado para obtener tus análisis es corto, por lo que se te ha solicitado que acotes tu trabajo en al menos 10 criptomonedas, y en base a estas presentes tus análisis y recomendaciones.
-
-Considera además que la elección de estas monedas queda a tu criterio, pero debes dejar claro el porqué de tu elección y el sustento de ésta. Por ejemplo, podrías seleccionar las criptomonedas con mayor capitalización de mercado, aquellas que han experimentado un mayor crecimiento reciente, o incluso algunas que son innovadoras en términos de tecnología o caso de uso.
-
-Por último, asegúrate de destacar el impacto y las recomendaciones basadas en los resultados del análisis. Estos podrían incluir posibles estrategias u oportunidades de inversión, la gestión del riesgo, optimización de la cartera, sugerencias sobre cómo seguir monitoreando el mercado de criptomonedas, entre otros.
+Por su parte, en la sección **Material de apoyo** podrán encontrar más información de interés relativa a los datos disponibilizados y al Observatorio que nos encomienda el trabajo.
 
 
-## **Propuesta de trabajo -mínimos entregables-**
+## **Propuesta de trabajo -mínimos entregables tech-**
+*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Individuales/PI03/Data14_Homicidios#lo-que-tendremos-en-cuenta-a-la-hora-de-evaluar).* 😄
 
-`EDA` (Exploratory Data Analysis)
+- `EDA` (Exploratory Data Analysis)
 
 Debes realizar un análisis exploratorio de los datos en un notebook. Tienen que estar tus pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo que vas observando, utilizando celdas Markdown para tal fin. La prolijidad del notebook será un aspecto a evaluar. Es importante que tengas en cuenta que, en muchas oportunidades y trabajos, un EDA constituye un entregable en sí mismo.
 
@@ -45,61 +50,78 @@ En esta línea, hay varios aspectos indispensables que **deben** ser abordados e
 
 ***En caso de hacer uso de librerías como pandas_profiling, es indispensable acompañar los gráficos con análisis propios.***
 
-`Dashboard`
+- `Dashboard`
 
 Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir **filtros**, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea **interactivo**. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems. 
 
-`Análisis` :warning:
+- `KPIs`
 
-No se considerará solamente la producción de gráficos con datos -dashboard-, sino también los análisis y conclusiones que puedan extraer a partir de ellos.
+Debes graficar y medir los 2 KPIs propuestos a continuación, representándolos adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar un tercer KPI que consideres relevante para la temática. 
+Los dos KPIs propuestos son:
+> - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
+>   
+> Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
+  Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
+  
+> - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
+>
+> Definimos a la **cantidad de accidentes mortales de motociclistas en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal.
+  Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
-`KPIs`
 
-Debes sugerir 3 KPIs y deben estar adecuadamente representados de forma visual en el dashboard. Tén presente que deben tener relación con la historia que estás contando. Asimismo, se espera que en la presentación se explique el análisis y la funcionalidad de los KPIs sugeridos.
+ `MUY IMPORTANTE` repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
 
-`MUY IMPORTANTE` repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
-
-`Repositorio de GitHub`
+- `Repositorio de GitHub`
 
 El repositorio debe contener un **Readme** principal donde presenten, en una primera instancia, de forma general **su proyecto** y detallen qué hay en cada archivo/carpeta del propio repositorio. Este Readme no puede ser el mismo de la consigna que nosotros les entregamos.
 A su vez, el Readme debe incluir un **reporte de análisis con base en sus dashboards**, así como el análisis y la funcionalidad de los KPIs sugeridos.
 
 ### _**Desafíate y no te quedes siendo Junior, sé Junior Advanced**_
 
-Pensando en alcanzar tu Boom, te recomendamos incorporar los siguientes desafíos para tener un portfolio mucho más completo y competitivo:
+Pensando en alcanzar tu Boom 🚀, te recomendamos incorporar los siguientes desafíos para tener un portfolio mucho más completo y competitivo:
 
-- Crear una base de datos en un motor SQL, ingestar el csv procesado y utilizarla como fuente de datos de su dashboard en Power BI (o la herramienta de visualización que utilice).
+- Crear una base de datos en un motor SQL, ingestar el dataset procesado y utilizarla como fuente de datos de su dashboard en Power BI (o la herramienta de visualización que utilice).
 - Ejecutar scripts de Python en la herramienta de visualización de datos escogida.
-- Cruce de datos con datasets complementarios, ya sea para obtener información nueva o poder comparar la información disponible para todas las plataformas. 
-
+- Cruce de datos con datasets complementarios, ya sea para obtener información nueva respecto a lesiones, o poder comparar la información disponible con otros aspectos que considere relevantes.
+  
 <sub> Nota: la realización de uno o más de estos ítems no es intercambiable con los requerimientos mínimos establecidos en la sección anterior "Propuesta de trabajo". Empiece con esta sección una vez haya cumplido con los requerimientos mínimos, a modo de desafiarse a usted mismo y destacar frente al resto.</sub>
 
 ## Fuente de datos
 **Obligatorio:**
 
-- [API CoinGecko](https://www.coingecko.com/es/api/documentation): Ten en cuenta que se verificará que los datos sean traidos desde la API
+- [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): deberán utilizar el dataset denominado `Homicidios`
 
 **Complementarios:**
-- Cualquier dataset de búsqueda propia que complemente y mejore el análisis. 
-- [API Binance](https://binance-docs.github.io/apidocs/spot/en/#general-api-information)
-
+- [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): pueden usar el dataset de `Lesiones`
+- Cualquier dataset de búsqueda propia que complemente y mejore el análisis. Recuerde el uso de [APIs y WebScrapping](https://www.students.soyhenry.com/classes/95?cohortId=124&videoOrdinal=2)
 
 <h1>Lo que tendremos en cuenta a la hora de evaluar</h1>
 
 Serás evaluado en dos grandes áreas  `Tech` y `Soft`!
 
-Ambas con igual peso entre si y ambas deben ser aprobatorias para tener la calidad de aprobado en este PIDA.
-A continuacion te facilitamos la [rubrica de evaluacion](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml) con la que seras evaluado por tu corrector@.
+Ambas con igual peso entre si y ambas deben ser aprobatorias para tener la calidad de aprobado en este PIDA. Ten presente que una nota minima para aprobar significa tener TODOS los items como "Bueno" 👌
+
+A continuacion te facilitamos nuevamente la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml) con la que seras evaluado por tu corrector@. Recuerda que el feedback de tu corrector@ no es en ningun momento un indicativo de tu nota. 
+Si tienes alguna duda durante tu DEMO, pidele a tu corrector@ que te aclare claramente cuales son los objetivos de aprendizaje no cumplidos.
 
 Esperamos que te sirva de guia de aprendizaje, y recuerda que no se trata solo de cumplir requisitos, sino de destacar en cada nivel 🚀 💛
 
 
 ## Material de apoyo
-- ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
-- [Como hacer un EDA](https://medium.com/nerd-for-tech/how-to-do-some-basic-eda-a-guide-for-dummies-d76d9a82242c)
-- [Como ejecutar scripts en power BI](https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts)
-- [KPI's 4 students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit) y [Define your KPIs](https://medium.com/swlh/define-your-kpis-1a2072f1435)
+- [Notas para el uso del dataset de homicidios de siniestros viales de la CABA](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf)
+- [Observatorio de Movilidad y Seguridad Vial de la Ciudad Autónoma de Buenos Aires](https://buenosaires.gob.ar/observatorio-de-movilidad-y-seguridad-vial)
+
+
+#### Tech
 - [Repaso de clase sobre EDA](https://www.students.soyhenry.com/classes/100?cohortId=106&videoOrdinal=1)
+- [Code Review: **Interactividad** Dashboard, Patron Z, **Tooltips**](https://www.students.soyhenry.com/classes/93?cohortId=124&videoOrdinal=2)
+- [KPI's 4 students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit)
+- [Code Review: DAX y **medidas calculadas**](https://www.students.soyhenry.com/classes/96?cohortId=124&videoOrdinal=2)
+
+#### Soft
+- ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
+
+
 
 
 ## ***Recomendaciones finales***
