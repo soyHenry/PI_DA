@@ -6,29 +6,29 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`Accidentes Aereos`**</h1>
+# <h1 align="center">**`Telecomunicaciones`**</h1>
 
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 <p align='center'>
-<img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F09%2F15%2F16%2F13%2Fairplane-1671967_1280.jpg"  height=300>
+<img src="https://newses.cgtn.com/n/BfJIA-CAA-HAA/BceGDAA.jpg"  height=300>
 <p>
 
 ## **Descripción del problema -contexto y rol a desarrollar-**
 
 ### **Contexto**
 
-Los accidentes aéreos son eventos inesperados e indeseados que involucran aeronaves y se producen daños físicos a personas o a la propia aeronave. Un accidente aéreo puede involucrar cualquier tipo de aeronave, incluyendo aviones comerciales, aviones privados, helicópteros, planeadores y globos aerostáticos.
+Las telecomunicaciones se refieren a la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios de comunicación permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias.
 
-Los accidentes aéreos pueden ser causados por diversos factores, como errores humanos, fallos de equipos, problemas meteorológicos, problemas de mantenimiento, fallas en la gestión del tráfico aéreo, problemas de diseño o problemas de fabricación. Y en cuanto a sus consecuencias, pueden ser tanto en términos de pérdidas humanas como económicas.
+El internet, por su parte, es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real. Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
 
-Es por eso que la industria de la aviación, las autoridades reguladoras y los investigadores trabajan incansablemente para mejorar la seguridad de la aviación y prevenir futuros accidentes. Por otro lado, para las organizaciones asociadas a la aviación, estudiar la causalidad de los accidentes y aprender a cómo prevenirlos en el futuro es clave para poder evitar pérdidas humanas y daños materiales significativos. 
+La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, y en casi cualquier lugar del mundo. 
+
+En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones de conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php). 
 
 
 ### **Rol a desarrollar**
 
-La **Organización de Aviación Civil Internacional (OACI)**, organismo de la Organización de las Naciones Unidas, quiere investigar en profundidad los accidentes producidos desde inicios del siglo XX. Para ello, el objetivo principal es poder obtener un análisis de datos relacionado a esto, junto a un dashboard que complemente los análisis con sus visualizaciones. 
-
-La OACI únicamente cuenta con un dataset sobre datos de accidentes de aviones, pero insta a la consultora de datos -de la que forman parte- que intente cruzar esta información con otras fuentes de su interés. Esto con el objetivo de obtener mayor claridad y consistencia en los fundamentos del estudio.
+En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
 ## **Propuesta de trabajo -mínimos entregables-**
 *Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml).* 😄
@@ -53,10 +53,23 @@ No se considerará solamente la producción de gráficos con datos -dashboard-, 
 
 Debes graficar y medir el KPI propuesto a continuación, representándolo adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar un segundo KPI que consideres relevante para la temática. 
 El KPI propuesto es:
-- *Evaluar la disminución de un 10% la tasa de fatalidad de la tripulación en los últimos 10 años, comparado a la década anterior*.
+- *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
+La fórmula es la siguiente:
 
-  Definimos la **tasa de fatalidad de la tripulación** como el número total de tripulantes fallecidos en los accidentes registrados en la década a considerar, dividido en la cantidad total de accidentes aéreos ocurridos en este período de tiempo. Su fórmula es (Suma total de fallecidos en el período de tiempo / Suma total de accidentes en el período de tiempo).
-  
+ $`KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100`$
+ 
+Donde:
+
+- "Nuevo acceso" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
+- "Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
+
+Esta fórmula te ayudará a calcular el KPI para medir el aumento en el acceso a Internet por cada 100 hogares en cada provincia.
+
+**Ejemplo de uso:**
+
+KPI = ((510 - 500) / 500) * 100 = 2%
+
+Esto indicaría un aumento del 2% en el acceso a Internet en esa provincia para el próximo trimestre.
 
 `MUY IMPORTANTE` repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
 
@@ -78,12 +91,11 @@ Pensando en alcanzar tu Boom 🚀, te recomendamos incorporar los siguientes des
 ## Fuente de datos
 **Obligatorio:**
 
-- Dataset principal, incluido en el repositorio del proyecto.
+- [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API para traerse los datos-
 
 **Complementario:**
-- [National Transportation Safety Board](https://www.ntsb.gov/safety/data/Pages/Data_Stats.aspx)
-- [Aviation Safety Network](https://aviation-safety.net/database/)
-- [Federal Aviation Administration](https://www.faa.gov/data_research/accident_incident)
+- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
+
 - Cualquier dataset de búsqueda propia que complemente y mejore el análisis.
 
 <h1>Lo que tendremos en cuenta a la hora de evaluar</h1>
@@ -116,7 +128,7 @@ Recuerda ser puntual y probar el correcto funcionamiento de las herramientas emp
 
 La **DEMO**, donde defenderás tu proyecto, se realizará el día jueves o viernes. Debes estar atent@ a tu *calendar* para ver qué día y horario te corresponde. 
 
-Esta demo tendrá una duración total máxima de 30 minutos, de los cuales **sólo 10 minutos serán para su presentación**.  Es importante que sepas **gestionar bien tu tiempo** y tengas un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección, revisión de repositorio y feedback por parte del Henry Mentor.
+Esta demo tendrá una duración total máxima de 30 minutos, de los cuales **sólo 10 minutos serán para tu presentación**.  Es importante que sepas **gestionar bien tu tiempo** y tengas un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección, revisión de repositorio y feedback por parte del Henry Mentor.
 
 
 
