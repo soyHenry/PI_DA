@@ -118,10 +118,8 @@ Esperamos que te sirva de guia de aprendizaje, y recuerda que no se trata solo d
 
 
 #### Tech
-- [Repaso de clase sobre EDA](https://www.students.soyhenry.com/classes/100?cohortId=106&videoOrdinal=1)
-- [Code Review: **Interactividad** Dashboard, Patron Z, **Tooltips**](https://www.students.soyhenry.com/classes/93?cohortId=124&videoOrdinal=2)
+- Material M5 
 - [KPI's 4 students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit)
-- [Code Review: DAX y **medidas calculadas**](https://www.students.soyhenry.com/classes/96?cohortId=124&videoOrdinal=2)
 
 #### Soft
 - ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
