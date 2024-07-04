@@ -31,7 +31,7 @@ En comparación con la media mundial, Argentina está a la vanguardia en el desa
 En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
 ## **Propuesta de trabajo -mínimos entregables-**
-*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml).* 😄
+*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTy9Ome3iLIl40SZ2jciZLiwARr9MVXfo_Mud3vVCin9P4zroAw_oxVQVch6m4TKivmUjFrYJKMJJhS/pubhtml).* 😄
 
 `EDA` (Exploratory Data Analysis)
 
@@ -39,7 +39,6 @@ Debes realizar un análisis exploratorio de los datos en un notebook. Tienen que
 
 En esta línea, hay varios aspectos indispensables que **deben** ser abordados en cualquier Análisis Exploratorio de Datos y tomaremos como punto de partida para evaluar tu performance en este apartado. Entre estos aspectos destacados se encuentran: *búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados*. Asimismo, la utilización de gráficos coherentes según la tipología de variable que corresponda resulta esencial.
 
-***En caso de hacer uso de librerías como pandas_profiling, es indispensable acompañar los gráficos con análisis propios.***
 
 `Dashboard`
 
@@ -51,7 +50,7 @@ No se considerará solamente la producción de gráficos con datos -dashboard-, 
 
 `KPIs`
 
-Debes graficar y medir el KPI propuesto a continuación, representándolo adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar un segundo KPI que consideres relevante para la temática. 
+Debes graficar y medir el KPI propuesto a continuación, representándolo adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar dos KPIs que consideres relevantes para la temática. 
 El KPI propuesto es:
 - *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
 La fórmula es la siguiente:
@@ -91,10 +90,12 @@ Pensando en alcanzar tu Boom 🚀, te recomendamos incorporar los siguientes des
 ## Fuente de datos
 **Obligatorio:**
 
-- [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API para traerse los datos-
+- [Datasets principales](https://indicadores.enacom.gob.ar/datos-abiertos) -Obligatorio: Internet-
+- [Diccionario de datos](https://docs.google.com/spreadsheets/d/1aXP6CLiDNcExqR_xoSVrYNpPZza9zYtAYovgi3ZVcOo/edit?gid=0#gid=0)
+  
 
 **Complementario:**
-- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
+- [Datasets complementarios](https://indicadores.enacom.gob.ar/datos-abiertos)Los demas datasets que figuran para descargar se consideran complementarios.
 
 - Cualquier dataset de búsqueda propia que complemente y mejore el análisis.
 
@@ -102,8 +103,8 @@ Pensando en alcanzar tu Boom 🚀, te recomendamos incorporar los siguientes des
 
 Serás evaluado en dos grandes áreas  `Tech` y `Soft`!
 
-Ambas con igual peso entre si y ambas deben ser aprobatorias para tener la calidad de aprobado en este PIDA. Ten presente que una nota mínima para aprobar significa tener TODOS los items como "Bueno" 👌
-A continuación te facilitamos nuevamente la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml) con la que serás evaluado por tu corrector@. Recuerda que el feedback de tu corrector@ no es en ningun momento un indicativo de tu nota. Si tienes alguna duda durante tu DEMO, pídele a tu corrector@ que te aclare claramente cuales son los objetivos de aprendizaje no cumplidos.
+Ambas con igual peso entre si y ambas deben ser aprobatorias para tener la calidad de aprobado en este PIDA. Ten presente que una nota mínima para aprobar significa tener TODOS los items como "Aprobado" 👌
+A continuación te facilitamos nuevamente la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTy9Ome3iLIl40SZ2jciZLiwARr9MVXfo_Mud3vVCin9P4zroAw_oxVQVch6m4TKivmUjFrYJKMJJhS/pubhtml) con la que serás evaluado por tu corrector@. 
 
 Esperamos que te sirva de guía de aprendizaje, y recuerda que no se trata solo de cumplir requisitos, sino de destacar en cada nivel 🚀 💛
 
@@ -111,10 +112,7 @@ Esperamos que te sirva de guía de aprendizaje, y recuerda que no se trata solo 
 ## Material de apoyo
 
 #### Tech
-- [Repaso de clase sobre EDA](https://www.students.soyhenry.com/classes/100?cohortId=106&videoOrdinal=1)
-- [Code Review: **Interactividad** Dashboard, Patron Z, **Tooltips**](https://www.students.soyhenry.com/classes/93?cohortId=124&videoOrdinal=2)
-- [KPI's 4 students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit)
-- [Code Review: DAX y **medidas calculadas**](https://www.students.soyhenry.com/classes/96?cohortId=124&videoOrdinal=2)
+- Material del M5
 
 #### Soft
 - ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
@@ -126,9 +124,7 @@ Esperamos que te sirva de guía de aprendizaje, y recuerda que no se trata solo 
 
 Recuerda ser puntual y probar el correcto funcionamiento de las herramientas empleadas ***antes*** de ingresar a la meet.
 
-La **DEMO**, donde defenderás tu proyecto, se realizará el día jueves o viernes. Debes estar atent@ a tu *calendar* para ver qué día y horario te corresponde. 
-
-Esta demo tendrá una duración total máxima de 30 minutos, de los cuales **sólo 10 minutos serán para tu presentación**.  Es importante que sepas **gestionar bien tu tiempo** y tengas un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección, revisión de repositorio y feedback por parte del Henry Mentor.
+La **DEMO** tendrá una duración total máxima de 30 minutos, de los cuales **sólo 10 minutos serán para tu presentación**.  Es importante que sepas **gestionar bien tu tiempo** y tengas un speech ya preparado de 10 minutos, ya que el tiempo restante será dedicado a la corrección, revisión de repositorio y feedback por parte del Henry Mentor.
 
 
 
