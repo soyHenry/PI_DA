@@ -91,7 +91,7 @@ Pensando en alcanzar tu Boom 🚀, te recomendamos incorporar los siguientes des
 **Obligatorio:**
 
 - [Datasets principales](https://indicadores.enacom.gob.ar/datos-abiertos) -Obligatorio: Internet-
-- [Diccionario de datos](https://docs.google.com/spreadsheets/d/1aXP6CLiDNcExqR_xoSVrYNpPZza9zYtAYovgi3ZVcOo/edit?gid=0#gid=0)
+- [Diccionario de datos](https://docs.google.com/document/d/1BYW0vT_DNIjjKM9v4hNg5KmqjRNOc7OBB1jCXc80gnI/edit#heading=h.hjukififf3ol)
   
 
 **Complementario:**
